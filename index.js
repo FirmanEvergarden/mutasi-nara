@@ -4,8 +4,8 @@ import moment from 'moment-timezone';
 import chalk from 'chalk';
 import express from 'express';
 
-const merchant_id = 'OK2353745';
-const merchant_code = '894916017447387782353745OKCT33ED157A61A41108EB5B367883E0A0F8';
+const merchant_id = 'OK2167163';
+const merchant_code = '129261017366710782167163OKCT95F851D5A7E4536088039E868FBA7C84';
 
 async function fetch() {
   try {
